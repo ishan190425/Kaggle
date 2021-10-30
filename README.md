@@ -1,2 +1,2 @@
-# Kaggle Competition Submissions using various ML/DL concepts
+# Kaggle Competitions Submissions using various ML/DL concepts
 - Titanic
